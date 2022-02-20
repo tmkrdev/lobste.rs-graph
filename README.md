@@ -1,1 +1,1 @@
-# -lobste.rs-graph
+# lobste.rs-graph
